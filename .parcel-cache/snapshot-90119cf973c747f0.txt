@@ -22,7 +22,7 @@
 90C:\Users\uxtte\perlin-demo\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts133602334865184111 1
 96C:\Users\uxtte\perlin-demo\node_modules\three\examples\jsm\renderers\common\ProgrammableStage.js133602331829335486 0
 75C:\Users\uxtte\perlin-demo\node_modules\@parcel\core\test\fixtures\main-mjs133602334846836422 1
-31C:\Users\uxtte\perlin-demo\dist133602348562063542 1
+31C:\Users\uxtte\perlin-demo\dist133602349592200477 1
 64C:\Users\uxtte\perlin-demo\node_modules\dom-serializer\README.md133602334812786985 0
 71C:\Users\uxtte\perlin-demo\node_modules\csso\cjs\replace\Percentage.cjs133602334813900587 0
 61C:\Users\uxtte\perlin-demo\node_modules\csso\dist\csso.esm.js133602334815166121 0
@@ -91,7 +91,7 @@
 56C:\Users\uxtte\perlin-demo\node_modules\three\src\lights133602331830360708 1
 80C:\Users\uxtte\perlin-demo\node_modules\three\examples\jsm\loaders\RGBELoader.js133602331829715544 0
 77C:\Users\uxtte\perlin-demo\node_modules\caniuse-lite\data\features\flexbox.js133602334819503305 0
-39C:\Users\uxtte\perlin-demo\src\index.js133602346652561059 0
+39C:\Users\uxtte\perlin-demo\src\index.js133602349590607612 0
 72C:\Users\uxtte\perlin-demo\node_modules\react-error-overlay\lib\index.js133602334815468020 0
 63C:\Users\uxtte\perlin-demo\node_modules\js-yaml\dist\js-yaml.js133602334813286987 0
 60C:\Users\uxtte\perlin-demo\node_modules\escape-string-regexp133602334810986239 1
@@ -1951,7 +1951,7 @@
 67C:\Users\uxtte\perlin-demo\node_modules\three\examples\jsm\controls133602331830935945 1
 68C:\Users\uxtte\perlin-demo\node_modules\gsap\types\gs-dev-tools.d.ts133602331992326484 0
 80C:\Users\uxtte\perlin-demo\node_modules\dom-serializer\node_modules\entities\lib133602334833817605 1
-50C:\Users\uxtte\perlin-demo\dist\index.4d663569.css133602348561332836 0
+50C:\Users\uxtte\perlin-demo\dist\index.4d663569.css133602349502073195 0
 67C:\Users\uxtte\perlin-demo\node_modules\@parcel\bundler-default\lib133602334825411991 1
 94C:\Users\uxtte\perlin-demo\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\parser.js133602334838519045 0
 62C:\Users\uxtte\perlin-demo\node_modules\three\examples\jsm\csm133602331824883484 1
@@ -3901,7 +3901,7 @@
 78C:\Users\uxtte\perlin-demo\node_modules\gsap\types\utils\velocity-tracker.d.ts133602331992536461 0
 55C:\Users\uxtte\perlin-demo\node_modules\gsap\src\all.js133602331991015589 0
 61C:\Users\uxtte\perlin-demo\node_modules\gsap\src\CSSPlugin.js133602331991045581 0
-49C:\Users\uxtte\perlin-demo\dist\index.00c86b07.js133602348561312770 0
+49C:\Users\uxtte\perlin-demo\dist\index.00c86b07.js133602349502143211 0
 61C:\Users\uxtte\perlin-demo\node_modules\gsap\src\Draggable.js133602331991225623 0
 65C:\Users\uxtte\perlin-demo\node_modules\@swc\helpers\src\_set.mjs133602334820385991 0
 63C:\Users\uxtte\perlin-demo\node_modules\gsap\src\EaselPlugin.js133602331991285569 0
@@ -5678,7 +5678,7 @@
 79C:\Users\uxtte\perlin-demo\node_modules\@swc\helpers\_\_assert_this_initialized133602334817189842 1
 80C:\Users\uxtte\perlin-demo\node_modules\@swc\helpers\_\_async_generator_delegate133602334817209835 1
 70C:\Users\uxtte\perlin-demo\node_modules\@swc\helpers\_\_async_iterator133602334817249834 1
-42C:\Users\uxtte\perlin-demo\dist\index.html133602348561332836 0
+42C:\Users\uxtte\perlin-demo\dist\index.html133602349502453209 0
 77C:\Users\uxtte\perlin-demo\node_modules\@swc\helpers\_\_await_async_generator133602334817279843 1
 97C:\Users\uxtte\perlin-demo\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file133602334846786413 1
 113C:\Users\uxtte\perlin-demo\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeUselessDefs.js133602334840775144 0
@@ -7084,8 +7084,8 @@
 81C:\Users\uxtte\perlin-demo\node_modules\.bin\node-gyp-build-optional-packages.ps1133602335022460927 0
 55C:\Users\uxtte\perlin-demo\node_modules\.bin\semver.cmd133602335022510904 0
 71C:\Users\uxtte\perlin-demo\node_modules\.bin\update-browserslist-db.ps1133602335022510904 0
-53C:\Users\uxtte\perlin-demo\dist\index.00c86b07.js.map133602348561372825 0
-54C:\Users\uxtte\perlin-demo\dist\index.4d663569.css.map133602348561372825 0
-49C:\Users\uxtte\perlin-demo\dist\index.975ef6c8.js133602348561993570 0
-53C:\Users\uxtte\perlin-demo\dist\index.975ef6c8.js.map133602348562053537 0
 59C:\Users\uxtte\perlin-demo\dist\perlin-demo.59712999.js.map133602335395251118 0
+54C:\Users\uxtte\perlin-demo\dist\index.4d663569.css.map133602349502153197 0
+53C:\Users\uxtte\perlin-demo\dist\index.00c86b07.js.map133602349502173198 0
+49C:\Users\uxtte\perlin-demo\dist\index.975ef6c8.js133602349592120476 0
+53C:\Users\uxtte\perlin-demo\dist\index.975ef6c8.js.map133602349592190499 0

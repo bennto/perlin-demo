@@ -651,13 +651,7 @@ tl.to(blobData, {
     duration: 1,
     ease: "none"
 });
-function blobReact() {
-    if (_mouse.mouseDown) tl.play();
-    if (!_mouse.mouseDown) {
-        tl.reverse();
-        console.log(blobData.edge);
-    }
-}
+function blobReact() {}
 (0, _gsap.gsap).ticker.add(gravMouse);
 (0, _gsap.gsap).ticker.add(blobReact);
 window.addEventListener("mousemove", gravMouse);

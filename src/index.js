@@ -101,13 +101,7 @@ tl.to(blobData, {
   ease: "none",
 });
 function blobReact() {
-  if (mouse.mouseDown) {
-    tl.play();
-  }
-  if (!mouse.mouseDown) {
-    tl.reverse();
-    console.log(blobData.edge);
-  }
+  
 }
 
 gsap.ticker.add(gravMouse);
