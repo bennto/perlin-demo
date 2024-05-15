@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/bennto/perlin-demo/issues"
   },
-  "homepage": "https://github.com/bennto/perlin-demo#readme"
+  "homepage": "https://github.com/bennto/perlin-demo#readme",
+  "dependencies": {
+    "gsap": "^3.12.5",
+    "three": "^0.164.1"
+  }
 }
