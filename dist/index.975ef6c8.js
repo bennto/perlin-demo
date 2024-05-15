@@ -616,7 +616,7 @@ function init() {
 function update() {
     const time = performance.now() * 0.001; //time dialation
     const positions = sphere.geometry.attributes.position.array;
-    sinFlux = Math.sin(++blobData.flux / 100) * blobData.goop;
+    const sinFlux = Math.sin(++blobData.flux / 100) * blobData.goop;
     const rad = 140; //radius
     for(let i = 0; i < positions.length; i++){
         const p = new _three.Vector3(positions[i * 3], positions[i * 3 + 1], positions[i * 3 + 2]);
@@ -647,7 +647,7 @@ function gravMouse() {
 }
 let tl = (0, _gsap.gsap).timeline({});
 tl.to(blobData, {
-    edge: 3,
+    edge: 2,
     duration: 1,
     ease: "none"
 });
